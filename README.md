@@ -81,4 +81,4 @@ Contributions are welcome! To add queries or improve the repo:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or suggestions, open an issue or contact [your-username] on GitHub.
+For questions or suggestions, open an issue or contact [https://github.com/ak-boateng/](ak-boateng) on GitHub.
