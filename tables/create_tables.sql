@@ -6,7 +6,6 @@ CREATE TABLE Instructor (
 );
 
 -- Create Student table
-
 CREATE TABLE Student (
     studentNo VARCHAR(4) PRIMARY KEY,
     LastName VARCHAR(50),
