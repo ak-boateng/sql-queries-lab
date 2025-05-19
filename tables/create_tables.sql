@@ -13,7 +13,8 @@ CREATE TABLE Student (
     FirstName VARCHAR(50),
     AddressType VARCHAR(100),
     City VARCHAR(50),
-    StateCityZip VARCHAR(20),
+    StateCity VARCHAR(20),
+    Zip VARCHAR(20),
     EnrollDate DATE,
     Undergrad VARCHAR(3)
 );
